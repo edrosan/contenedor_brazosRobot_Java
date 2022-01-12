@@ -1,9 +1,7 @@
 public class Contenedor {
-
     private  int piezasTotales;
     private int piezas;
     private String id;
-
 
     public Contenedor(int piezas, String id){
         this.piezas = piezas;
